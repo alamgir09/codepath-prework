@@ -58,7 +58,7 @@ If you had a few more hours to work on this project, what would you spend them d
 The first thing I would do is probably link new sounds that would implement do, re, mi, fa, so into the buttons if clicked on. I would also possibly add additional buttons and 3 strikes so the player has more options. I would focus on making the game also look more aesthetic, possibly changing the shape of the different choices as well so that the user can rely on shape as well to play the game(although this one would be much harder for me). Maybe you could implement a background change feature as well that lets the user click on the top right and it cycles through different background images as the wallpaper for the game. I think that would make the game so much more interesting. Another thing I can think of is adding more buttons as well so that the game is a bit harder. Lastly, maybe there is an easy, medium, and hard option that changes the starting clueHoldTime and how much it decreases each round.
 
 Interview Recording URL Link
-My 5-minute Interview Recording
+https://www.loom.com/share/4dc16b875fc44203a74ebf2cb0112435
 
 License
 Copyright [Mohammed Alamgir]
