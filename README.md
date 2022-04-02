@@ -32,7 +32,8 @@ The following additional features are implemented:
 
 [ ] List anything else that you can get done to improve the app!
 Video Walkthrough (GIF)
-If you recorded multiple GIFs for all the implemented features, you can add them here:![![](https://i.imgur.com/B1FSla4.gif)
+If you recorded multiple GIFs for all the implemented features, you can add them here:
+![![](https://i.imgur.com/B1FSla4.gif)
 ]![](https://i.imgur.com/bGOh3X6.gif)
 ![](https://i.imgur.com/LVT5cAn.gif)
 ![](https://i.imgur.com/IyT2HbZ.gif)
